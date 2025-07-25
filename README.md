@@ -111,11 +111,8 @@ The tool helps students and security enthusiasts explore encryption logic with r
 ---
 
 ## 👨‍💻 Authors
-
 **Md Syful Islam**  Student ID : 222002111
-
 **Tasdid Rahman Khan**  Student ID : 222002029
-
 **Sazzad Hossain**  Student ID : 221002464
 
 📚 B.Sc. in CSE (Day), Green University of Bangladesh  
